@@ -1,0 +1,28 @@
+2024-01-03 19:27:10,003 - INFO - User 5 trying to log in
+2024-01-03 19:38:43,197 - INFO - User 6 trying to log in
+2024-01-03 19:38:56,366 - INFO - User 6 logged in successfully
+2024-01-03 19:45:03,992 - INFO - User 5 trying to log in
+2024-01-03 19:45:12,878 - INFO - User 5 logged in successfully
+2024-01-03 21:42:31,580 - INFO - User 5 trying to log in
+2024-01-03 21:42:43,575 - INFO - User 5 logged in successfully
+2024-01-03 21:43:09,219 - INFO - User 5 placed order 2 successfully
+2024-01-03 21:43:34,192 - INFO - User 6 trying to log in
+2024-01-03 21:43:51,296 - INFO - User 6 logged in successfully
+2024-01-03 21:45:01,234 - INFO - User 6 added product kkkk successfully
+2024-01-03 21:45:01,264 - INFO - Sending e-mail to joaopaulo@detistore.com with subject Novo produto adicionado
+2024-01-03 21:45:34,329 - INFO - Sending e-mail to joaopaulo@detistore.com with subject Produto eliminado
+2024-01-03 21:45:35,608 - INFO - User 6 deleted product kkkk successfully
+2024-01-03 21:46:32,545 - INFO - Sending e-mail to alg@ua.pt with subject Bem-vindo à nossa loja!
+2024-01-03 21:47:03,413 - INFO - User 7 trying to log in
+2024-01-11 13:48:19,253 - INFO - User 5 trying to log in
+2024-01-11 13:48:40,341 - INFO - User 5 logged in successfully
+2024-01-11 13:49:28,397 - INFO - User 5 placed order 3 successfully
+2024-01-11 13:50:51,487 - INFO - User 5 reviewed the site successfully, with rating 1 and comment oi
+2024-01-11 13:51:04,678 - INFO - User 5 reviewed the site successfully, with rating 3 and comment oi
+2024-01-11 14:49:23,627 - INFO - User 5 trying to log in
+2024-01-11 14:49:31,326 - INFO - User 5 trying to log in
+2024-01-11 14:51:24,233 - INFO - Sending e-mail to user@example1.com with subject Bem-vindo à nossa loja!
+2024-01-11 14:51:31,698 - INFO - User 8 trying to log in
+2024-01-11 14:51:47,879 - INFO - User 8 logged in successfully
+2024-01-11 14:59:36,859 - INFO - User 8 trying to log in
+2024-01-11 14:59:47,832 - INFO - User 8 logged in successfully
